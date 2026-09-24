@@ -2,3 +2,6 @@
 __pycache__/
 *.pyc
 .env
+eggnest_ssv.db
+app_backup.py
+tall python-cryptography
